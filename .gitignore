@@ -1,1 +1,5 @@
-*.png
+/docs
+CLAUDE.md
+/.claude
+.venv
+__pycache__/
